@@ -1,0 +1,8 @@
+﻿  main.c
+  OraFunctions.c
+  parseCmdLine.c
+d:\programming\vsprojects\simple_oracle_client_application\simple_oracle_client_application\parsecmdline.c(18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  simple_Oracle_client_application.vcxproj -> D:\Programming\VSProjects\simple_Oracle_client_application\x64\Release\simple_Oracle_client_application.exe
